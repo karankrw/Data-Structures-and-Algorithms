@@ -9,3 +9,6 @@ My ***Python3*** `.py` solutions to programming assignments of Data Structures c
 
 ## 3. Algorithms on Graphs
 My ***Python3*** `.py` solutions to programming assignments of Algorithms on Graphs course
+
+## 4. Algorithms on Strings
+My ***Python3*** `.py` solutions to programming assignments of Algorithms on Strings course
